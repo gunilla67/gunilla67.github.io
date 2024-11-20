@@ -1,0 +1,39 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  background-color: rgb(242, 202, 138);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1 {
+  background-color: black;
+  color: white;
+  width: 600px;
+  padding: 10px;
+  border: 3px solid rgb(229, 19, 19);
+}
+p {
+  width: 600px;
+  background-color: rgb(236, 30, 212);
+  padding: 10px;
+  border: 3px solid #21e7e7;
+}
+img {
+  width: 600px;
+  display: block;
+}
+a {
+  color: black;
+  text-decoration: none;
+  padding: 10px;
+  background-color: darkorange;
+  display: inline-block;
+  margin-top: 10px;
+  border-radius: 20px;
+}
+#helmut {
+  background-color: burlywood;
+}
+.green {
+  background-color: greenyellow;
+}
