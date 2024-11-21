@@ -29,11 +29,13 @@ a {
   background-color: darkorange;
   display: inline-block;
   margin-top: 10px;
-  border-radius: 20px;
 }
 #helmut {
   background-color: burlywood;
 }
 .green {
   background-color: greenyellow;
+}
+.border {
+  border: 1px solid black;
 }
